@@ -1,0 +1,32 @@
+<pelicula>
+
+    <titulo>Una historia muy real</titulo>
+
+    <reparto>
+        <nombre>Kevin Hart</nombre>
+        <nombre>Wesley Snipes</nombre>
+        <nombre>Tawny Newsome</nombre>
+        <nombre>Theo Rossi</nombre>
+    </reparto>
+
+    <creador>Eric Newman</creador>
+
+    <calificacion>
+        <edad>+16</edad>
+        <calificado>Violencia, género</calificado>
+    </calificacion>
+
+    <generos>
+        <genero>Series TV policiacas</genero>
+        <genero>Thrillers TV</genero>
+        <genero>Dramas TV</genero>
+    
+    </generos>
+    
+    <pertenece>
+        <tipo>Peculiar</tipo>
+        <tipo>Provocadora</tipo>
+        <tipo>Siniestra</tipo>
+    </pertenece>
+    
+</pelicula>
